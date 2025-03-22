@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Muhammad Aaqib Imran!
+# 👋 Hi, I'm Aaqib Imran!
 
 🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
 💡 Passionate about building scalable, high-performance applications with modern web technologies.
