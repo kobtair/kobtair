@@ -18,8 +18,5 @@
 
 ---
 
-## 📈 GitHub Stats
-![Aaqib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kobtair&show_icons=true&theme=dark)
-
 📫 **Let’s Connect!**  
 🔗 [LinkedIn](https://linkedin.com/in/aaqib-imran) | 📧 aaqibimran0@gmail.com
